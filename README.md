@@ -19,7 +19,3 @@
 
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Kingston-16GB-ED1C24?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/HyperX-Keyboard_Mars-ED1C24?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/HyperX-HeadSet_Cloud_II-ED1C24?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/Logitech-Mouse_G502-0FAAFF?style=for-the-badge&logo=logitech&logoColor=white" />
 
-
-<h4 align="center"> 
-	🚧  Profile 🚀 Em construção...  🚧
-</h4>
