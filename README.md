@@ -1,6 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Matthengo?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Matthengo?style=social"> <a href="https://www.linkedin.com/in/matheus-henrique-gois/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--blue?style=social&logo=Linkedin" ></a>
 
-<h1 align="center"> Opa 😁 - Sou o Matheus H. Gois </h1>
+<h1 align="center"> 😁 Opa! Sou o Matthengo </h1>
 <div align="center"><img src="https://media1.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="100" height="100" /></div>
 
 <h3 align="center"> Fullstack Developer (By Trybe) | Mechatronic Engineer | Sempre evoluindo e aprendendo</h3>
