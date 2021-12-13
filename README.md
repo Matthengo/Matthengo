@@ -3,7 +3,7 @@
 <h1 align="center"> 😁 Opa! Sou o Matthengo </h1>
 <div align="center"><img src="https://media1.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="100" height="100" /></div>
 
-<h3 align="center"> Fullstack Developer (By Trybe) | Mechatronic Engineer | Sempre evoluindo e aprendendo</h3>
+<h3 align="center"> Fullstack Developer at CashForce | Tryber 💚 | Sempre evoluindo e aprendendo</h3>
 
 <img align="right" width="50%" src="https://media2.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" />
 
