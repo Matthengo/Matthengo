@@ -8,7 +8,7 @@
 <img align="right" width="50%" src="https://media2.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" />
 
 <div align="left">
-<p>Meu nome é Matheus Henrique de Gois. Atualmente tenho 24 anos (2021). Sou formado em Engenharia Mecatrônica, mas decidi seguir um mundo que eu considero mais <i>light</i>. Em 2021 eu comecei um curso de Desenvolvimento WEB pela <a href="https://www.betrybe.com/">Trybe</a> e aprendi MUITA coisa sobre o mundo da programação, e não necessariamente apenas o mundo WEB.</p>
+<p>Meu nome é Matheus Henrique de Gois. Atualmente tenho 26 anos (2023). Sou formado em Engenharia Mecatrônica, mas decidi seguir um mundo que eu considero mais <i>light</i>. Em 2021 eu comecei um curso de Desenvolvimento WEB pela <a href="https://www.betrybe.com/">Trybe</a> e aprendi MUITA coisa sobre o mundo da programação, e não necessariamente apenas o mundo WEB.</p>
 <p>Eu procuro sempre evoluir e me aprimorar (Olá soft-skills Aprender a aprender 😄). Mas tento sempre manter um equilíbrio entre minha vida profissional 🎯 e meu passa-tempo 🎮.</p>
 <p>O que eu mais gosto de fazer na programação é resolver problemas, independente da stack que eu precise usar ou até mesmo aprender.</p>
   
