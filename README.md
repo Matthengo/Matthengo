@@ -1,24 +1,25 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Matthengo?style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Matthengo?style=social"> <a href="https://www.linkedin.com/in/matheus-henrique-gois/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--blue?style=social&logo=Linkedin" ></a>
 
-<h1 align="center"> 😁 Opa! Sou o Matthengo </h1>
+<h1 align="center"> 😁 Hello! I'm Matthengo </h1>
 <div align="center"><img src="https://media1.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="100" height="100" /></div>
 
-<h3 align="center"> Tryber 💚 | Sempre evoluindo e aprendendo</h3>
+<h3 align="center"> Tryber 💚 | Fullstack Developer</h3>
 
 <img align="right" width="50%" src="https://media2.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" />
 
 <div align="left">
-<p>Meu nome é Matheus Henrique de Gois. Atualmente tenho 26 anos (2023). Sou formado em Engenharia Mecatrônica, mas decidi seguir um mundo que eu considero mais <i>light</i>. Em 2021 eu comecei um curso de Desenvolvimento WEB pela <a href="https://www.betrybe.com/">Trybe</a> e aprendi MUITA coisa sobre o mundo da programação, e não necessariamente apenas o mundo WEB.</p>
-<p>Eu procuro sempre evoluir e me aprimorar (Olá soft-skills Aprender a aprender 😄). Mas tento sempre manter um equilíbrio entre minha vida profissional 🎯 e meu passa-tempo 🎮.</p>
-<p>O que eu mais gosto de fazer na programação é resolver problemas, independente da stack que eu precise usar ou até mesmo aprender.</p>
+  <p>My name is Matheus (sounds like Matthews), I'm a brazilian born in 1997. I'm graduated in Mechatronic Engineering, but I didn't like too much what I graduated and I found myself loving to programming.</p>
+  <p>In 2021 I started a Web Development specialization at <a href="https://www.betrybe.com/">Trybe</a>, a school that professionalize who wants to join in this world of programming. They offer a one year fulltime course (1500 hours) to learn fullstack. And i have learned a LOT of things in this world of programming.</p>
+  <p>I always seek to improve myself and learn all days (thanks to my "learn to learn" softskills 😄). But I try to keep a balance between my professional 🎯 and my hobbies 🎮.</p>
+  <p>What I most like to do in programming is to solve challenges, independent of stack I need to use or even to learn</p>
   
   <br>
   
-- :computer: Web Developer pela Trybe
-- :robot: Engenharia Mecatrônica (Formado) 
-- :space_invader: Gamer nas horas vagas
-- :eyeglasses: Amante de Tecnologia
-- :dart: Sempre aprendendo e evoluindo
+- :computer: Web Developer by Trybe
+- :robot: Mechatronic Engineer (Graduated) 
+- :space_invader: Gamer
+- :eyeglasses: Tech lover
+- :dart: Always learning and improving
   
 </div>
 
